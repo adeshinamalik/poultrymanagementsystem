@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.0cb38667.css",
-    "main.js": "./static/js/main.c004e642.js",
+    "main.js": "./static/js/main.bcf9f20e.js",
     "static/js/845.2b265dae.chunk.js": "./static/js/845.2b265dae.chunk.js",
     "static/media/chickens-drinking-water-by-nipple-farm.svg": "./static/media/chickens-drinking-water-by-nipple-farm.05166cd886dc5c04097b22a503a6f565.svg",
     "static/media/waste.png": "./static/media/waste.d4f40470188090e15b19.png",
@@ -14,11 +14,11 @@
     "static/media/account-icon.svg": "./static/media/account-icon.378bba6eaf660fb768d933c21def9ad8.svg",
     "static/media/arrow-right.svg": "./static/media/arrow-right.8a5e205f52071743f8253017bfc7eb8e.svg",
     "main.0cb38667.css.map": "./static/css/main.0cb38667.css.map",
-    "main.c004e642.js.map": "./static/js/main.c004e642.js.map",
+    "main.bcf9f20e.js.map": "./static/js/main.bcf9f20e.js.map",
     "845.2b265dae.chunk.js.map": "./static/js/845.2b265dae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cb38667.css",
-    "static/js/main.c004e642.js"
+    "static/js/main.bcf9f20e.js"
   ]
 }
