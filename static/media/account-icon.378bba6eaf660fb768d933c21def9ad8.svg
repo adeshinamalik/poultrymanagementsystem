@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="130" viewBox="0 0 130 130">
+  <g id="account-icon" transform="translate(-2 -2)" opacity="0.3">
+    <path id="Path_2" data-name="Path 2" d="M57,30.125A24.375,24.375,0,1,1,32.625,5.75,24.375,24.375,0,0,1,57,30.125Z" transform="translate(34.375 20.625)" fill="#fff"/>
+    <path id="Path_3" data-name="Path 3" d="M2,67a65,65,0,1,1,65,65A65,65,0,0,1,2,67ZM67,10.125A56.875,56.875,0,0,0,22.573,102.5C28.344,93.208,41.039,83.25,67,83.25S105.649,93.2,111.427,102.5A56.875,56.875,0,0,0,67,10.125Z" transform="translate(0 0)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>
