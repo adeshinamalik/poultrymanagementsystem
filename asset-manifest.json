@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/poultrymanagementsystem/static/css/main.0cb38667.css",
-    "main.js": "/poultrymanagementsystem/static/js/main.9a970737.js",
-    "static/js/845.2b265dae.chunk.js": "/poultrymanagementsystem/static/js/845.2b265dae.chunk.js",
-    "static/media/chickens-drinking-water-by-nipple-farm.svg": "/poultrymanagementsystem/static/media/chickens-drinking-water-by-nipple-farm.05166cd886dc5c04097b22a503a6f565.svg",
-    "static/media/waste.png": "/poultrymanagementsystem/static/media/waste.d4f40470188090e15b19.png",
-    "static/media/water.png": "/poultrymanagementsystem/static/media/water.11ae2608517e7a385213.png",
-    "static/media/chicken.png": "/poultrymanagementsystem/static/media/chicken.c8c3961be01eab6710b3.png",
-    "static/media/egg.png": "/poultrymanagementsystem/static/media/egg.ceb15adebcf4033598e3.png",
-    "static/media/FUNAAB-Logo.png": "/poultrymanagementsystem/static/media/FUNAAB-Logo.bcd4648ed868c6904789.png",
-    "static/media/setting.svg": "/poultrymanagementsystem/static/media/setting.59fc9cad6a00a6151d4e8d7e9aec8913.svg",
-    "index.html": "/poultrymanagementsystem/index.html",
-    "static/media/account-icon.svg": "/poultrymanagementsystem/static/media/account-icon.378bba6eaf660fb768d933c21def9ad8.svg",
-    "static/media/arrow-right.svg": "/poultrymanagementsystem/static/media/arrow-right.8a5e205f52071743f8253017bfc7eb8e.svg",
-    "main.0cb38667.css.map": "/poultrymanagementsystem/static/css/main.0cb38667.css.map",
-    "main.9a970737.js.map": "/poultrymanagementsystem/static/js/main.9a970737.js.map",
-    "845.2b265dae.chunk.js.map": "/poultrymanagementsystem/static/js/845.2b265dae.chunk.js.map"
+    "main.css": "./static/css/main.0cb38667.css",
+    "main.js": "./static/js/main.c004e642.js",
+    "static/js/845.2b265dae.chunk.js": "./static/js/845.2b265dae.chunk.js",
+    "static/media/chickens-drinking-water-by-nipple-farm.svg": "./static/media/chickens-drinking-water-by-nipple-farm.05166cd886dc5c04097b22a503a6f565.svg",
+    "static/media/waste.png": "./static/media/waste.d4f40470188090e15b19.png",
+    "static/media/water.png": "./static/media/water.11ae2608517e7a385213.png",
+    "static/media/chicken.png": "./static/media/chicken.c8c3961be01eab6710b3.png",
+    "static/media/egg.png": "./static/media/egg.ceb15adebcf4033598e3.png",
+    "static/media/FUNAAB-Logo.png": "./static/media/FUNAAB-Logo.bcd4648ed868c6904789.png",
+    "static/media/setting.svg": "./static/media/setting.59fc9cad6a00a6151d4e8d7e9aec8913.svg",
+    "index.html": "./index.html",
+    "static/media/account-icon.svg": "./static/media/account-icon.378bba6eaf660fb768d933c21def9ad8.svg",
+    "static/media/arrow-right.svg": "./static/media/arrow-right.8a5e205f52071743f8253017bfc7eb8e.svg",
+    "main.0cb38667.css.map": "./static/css/main.0cb38667.css.map",
+    "main.c004e642.js.map": "./static/js/main.c004e642.js.map",
+    "845.2b265dae.chunk.js.map": "./static/js/845.2b265dae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cb38667.css",
-    "static/js/main.9a970737.js"
+    "static/js/main.c004e642.js"
   ]
 }
