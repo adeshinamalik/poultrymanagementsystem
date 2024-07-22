@@ -127,25 +127,25 @@ const HomePage = () => {
         return () => clearInterval(interval);
     }, [schedules.feeding.startTime, schedules.feeding.endTime, schedules.egg.startTime, schedules.egg.endTime, schedules.waste.startTime, schedules.waste.endTime, feedingStatus, eggStatus, wasteStatus]);
 
-    const getDataAsJSON = () => {
-        const data = {
-            currentTime,
-            eggSize,
-            feedingStatus,
-            startFeedingDateTime,
-            stopFeedingDateTime,
-            eggStatus,
-            startEggDateTime,
-            stopEggDateTime,
-            wasteStatus,
-            startWasteDateTime,
-            stopWasteDateTime,
-            nextWasteDateTime,
-            waterStatus
-        };
+    // const getDataAsJSON = () => {
+    //     const data = {
+    //         currentTime,
+    //         eggSize,
+    //         feedingStatus,
+    //         startFeedingDateTime,
+    //         stopFeedingDateTime,
+    //         eggStatus,
+    //         startEggDateTime,
+    //         stopEggDateTime,
+    //         wasteStatus,
+    //         startWasteDateTime,
+    //         stopWasteDateTime,
+    //         nextWasteDateTime,
+    //         waterStatus
+    //     };
 
-        console.log(JSON.stringify(data, null, 2));
-    };
+    //     console.log(JSON.stringify(data, null, 2));
+    // };
 
     return (
         <div>
@@ -206,7 +206,7 @@ const HomePage = () => {
                                     <div className="schedule">
                                         <div>schedule:</div>
                                         <span className="start-time">Start Time: <span className="valueEl">{schedules.feeding.startTime}</span></span>
-                                        <span className="end-time">End Time: <span className="valueEl">{schedules.feeding.endTime}</span></span>  
+                                        <span className="end-time">End Time: <span className="valueEl">{schedules.feeding.endTime}</span></span>
                                     </div>
                                     <div className="sys-info">
                                         <div>System Information</div><span><img src={myImages.arrowRight} alt="systeminfo" /></span>
@@ -241,7 +241,7 @@ const HomePage = () => {
                                     <div className="schedule">
                                         <div>schedule:</div>
                                         <span className="start-time">Start Time: <span className="valueEl">{schedules.egg.startTime}</span></span>
-                                        <span className="end-time">End Time: <span className="valueEl">{schedules.egg.endTime}</span></span>  
+                                        <span className="end-time">End Time: <span className="valueEl">{schedules.egg.endTime}</span></span>
                                     </div>
                                     <div className="sys-info">
                                         <div>System Information</div><span><img src={myImages.arrowRight} alt="systeminfo" /></span>
@@ -278,7 +278,7 @@ const HomePage = () => {
                                     <div className="schedule">
                                         <div>schedule:</div>
                                         <span className="start-time">Start Time: <span className="valueEl">{schedules.waste.startTime}</span></span>
-                                        <span className="end-time">End Time: <span className="valueEl">{schedules.waste.endTime}</span></span>  
+                                        <span className="end-time">End Time: <span className="valueEl">{schedules.waste.endTime}</span></span>
                                     </div>
                                     <div className="sys-info">
                                         <div>System Information</div><span><img src={myImages.arrowRight} alt="systeminfo" /></span>
@@ -314,12 +314,12 @@ const HomePage = () => {
                             </div>
                         </div>
                     </form>
-                    <div>
+                    {/* <div>
                         <div>
                             <h2>Data as JSON</h2>
                             <button onClick={getDataAsJSON}>Get Data</button>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>

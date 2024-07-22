@@ -408,12 +408,14 @@ header {
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////// */
 
 
-.chicken{
+.feeding {
     height: 580px;
 }
-.waste{
-    height: 580px;
+
+.egg {
+    height: 540px;
 }
-.water{
-    height: ;
+
+.waste {
+    height: 580px;
 }
